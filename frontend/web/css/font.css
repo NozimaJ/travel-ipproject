@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'Lato-Bol';
+	src:url(../font/Lato-Bol.ttf);
+}
+@font-face {
+	font-family: 'Lato-Lig';
+	src:url(../font/Lato-Lig.ttf);
+}
+@font-face {
+	font-family: 'Lato-LigIta';
+	src:url(../font/Lato-LigIta.ttf);
+}
+@font-face {
+	font-family: 'Lato-Hai';
+	src:url(../font/Lato-Hai.ttf);
+}
+@font-face {
+	font-family: 'Lato-HaiIta';
+	src:url(../font/Lato-HaiIta.ttf);
+}
